@@ -27,7 +27,7 @@ The drop in revenue might be due to the varying amounts of discounts offered to 
 ## BACKGROUND INFORMATION
 Data was sourced from www.kaggle.com. It was cleaned to remove duplicate, fill in the blanks within the columns. Microsoft Excel was used for data cleaning and data analysis. Pivot tables were created for the analysis. Charts were also created using Excel and an interactive dashboard created for the data.
 ## DATA ANALYSIS
-** Data Source **
+**Data Source**
 The data used for this work is gotten from www.kaggle.com. 
 ## KEY PERFORMANCE INDICATORS
 •	Total Revenue for the four years
@@ -54,13 +54,13 @@ The data used for this work is gotten from www.kaggle.com.
 •	I used =MODE(selected quantity column) the ENTER
 •	I deleted 50 rows with missing product category names because it was a small percentage compared to the data set I was using.
 ## SALES BREAKDOWN
-a)	** Sales by product **
+a)	**Sales by product**
 Best-selling product: Beauty products (24% of total revenue).
 Underperforming product: Electronics (19% of the total Revenue).
-b)	** Sales by region **
+b)	**Sales by region**
 There was a decline in sales for all regions from 2026-2027 due to low discounts offered to the customers. There was a 31% decline in sales.
 
-c)	** Sales by channel **
+c)	**Sales by channel**
 Online Sales: Accounted for 51% of total revenue.
 In-store: Accounted for 49% of total revenue.
 
@@ -76,16 +76,16 @@ New segment contributed 34.2% of total revenue.
 
 
 ## KEY INSIGHTS AND TRENDS
-** Shift to online shopping **
+**Shift to online shopping**
 Customers prefer online shopping over in-store sales. Online shopping contributed 51% while in-store contributed 49%.
  
-** Product performance **
+**Product performance**
 Beauty products generated good revenue across all years compared to other categories. It accounted for majority of the sales and revenue of $260,996 which is 22% of total revenue.
  
-** Regional Performance **
+**Regional Performance**
 East has the highest sales hence generating highest revenue of $280,680 which is 24% of the total revenue.
  
-** Customer Segment Performance **
+**Customer Segment Performance**
 New customer segment contributed higher revenue of $402,249 (34.1% of total revenue) for the four years followed by VIP with total revenue of $395,022(which is 33.5% of the total revenue).
  
 ## CONCLUSION
