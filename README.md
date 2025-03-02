@@ -56,7 +56,7 @@ The data used for this work is gotten from www.kaggle.com.
 ## SALES BREAKDOWN
 a)	**Sales by product**
 Best-selling product: Beauty products (24% of total revenue).
-Underperforming product: Electronics (19% of the total Revenue).
+Underperforming product: Electronics (19% of the total Revenue)
 b)	**Sales by region**
 There was a decline in sales for all regions from 2026-2027 due to low discounts offered to the customers. There was a 31% decline in sales.
 
@@ -69,25 +69,26 @@ There are three customer segments: VIP, Regular, New segment.
 VIP segment Contributed 33.5% of total revenue.
 Regular segment contributed 32.3% of total revenue.
 New segment contributed 34.2% of total revenue.
-
-
-
-
-
-
 ## KEY INSIGHTS AND TRENDS
 **Shift to online shopping**
 Customers prefer online shopping over in-store sales. Online shopping contributed 51% while in-store contributed 49%.
+![image](https://github.com/user-attachments/assets/938b0979-8ad1-4a91-b2ac-c7fbbd85f92c)
+
  
 **Product performance**
 Beauty products generated good revenue across all years compared to other categories. It accounted for majority of the sales and revenue of $260,996 which is 22% of total revenue.
- 
+![image](https://github.com/user-attachments/assets/acaf5a57-119c-4f80-b4e5-4ab489d8ace6)
+
+
 **Regional Performance**
 East has the highest sales hence generating highest revenue of $280,680 which is 24% of the total revenue.
+![image](https://github.com/user-attachments/assets/c309600f-9287-46b6-9eb8-9945fc004b60)
+
  
 **Customer Segment Performance**
 New customer segment contributed higher revenue of $402,249 (34.1% of total revenue) for the four years followed by VIP with total revenue of $395,022(which is 33.5% of the total revenue).
- 
+ ![image](https://github.com/user-attachments/assets/a3c46bf8-58cb-4f6d-865d-c08a1a7666b4)
+
 ## CONCLUSION
 2024 was a strong year for the company with revenue of $363,308 (30.8% of the total revenue for the company). However, challenges remain in in-store sales and certain product categories.
 By focusing on digital market expansion, the company can sustain growth in the coming years.
