@@ -53,6 +53,8 @@ The data used for this work is gotten from www.kaggle.com.
 ### •	I used =AVG(selected revenue column) and clicked on ENTER
 ### •	I used =MODE(selected quantity column) the ENTER
 ### •	I deleted 50 rows with missing product category names because it was a small percentage compared to the data set I was using.
+# DASHBOARD
+
 ## SALES BREAKDOWN
 a)	**Sales by product**
 Best-selling product: Beauty products (24% of total revenue).
