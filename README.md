@@ -1,5 +1,5 @@
 # SALES-PERFORMANCE-ANALYSIS
-Project Description](#project-description)  
+## TABLE OF CONTENT  
 - [ Project Objective](#project-objective)  
 - [ Data Used](#data-used)  
 - [ Executive Summary](#executive-summary)  
