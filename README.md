@@ -1,18 +1,18 @@
 # SALES-PERFORMANCE-ANALYSIS
 # TABLE OF CONTENT
-Project Description
-Project Objective
-Data Used
-Executive Summary
-Introduction	
-Background Information
-Key Performance Indicators
-Data Cleaning
-Dashboard
-Sales Breakdown
-Key Insights & Findings		
-Conclusion		
-Recommendations & Insights
+### Project Description
+### Project Objective
+### Data Used
+### Executive Summary
+### Introduction	
+#### Background Information
+### Key Performance Indicators
+### Data Cleaning
+### Dashboard
+### Sales Breakdown
+### Key Insights & Findings		
+### Conclusion		
+### Recommendations & Insights
 
 ## Project Description
 I developed a comprehensive project in excel, with detailed tables with pivot tables and visualizations to analyze the sales performance of a company. This process includes a series of stages including data processing, data cleaning, descriptive statistics and visualisation.
