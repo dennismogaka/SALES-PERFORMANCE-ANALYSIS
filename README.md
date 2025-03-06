@@ -1,6 +1,6 @@
 # SALES-PERFORMANCE-ANALYSIS
 # TABLE OF CONTENT
-### Project Description
+1. [Project Description](#Project Description).
 ### Project Objective
 ### Data Used
 ### Executive Summary
