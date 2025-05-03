@@ -47,7 +47,7 @@ Data was sourced from www.kaggle.com. It was cleaned to remove duplicate, fill i
 ### DATA ANALYSIS
 **Data Source**
 The data used for this work is gotten from www.kaggle.com. 
-#### KEY PERFORMANCE INDICATORS
+#### KEY PERFORMANCE INDICATORS (KPIs)
 •	Total Revenue for the four years
 
  •	Total revenue for each product category
@@ -92,7 +92,7 @@ The data used for this work is gotten from www.kaggle.com.
  
  •	I deleted 50 rows with missing product category names because it was a small percentage compared to the data set I was using.
  
-#### DYNAMIC DASHBOARD
+#### DASHBOARD
 [DASHBOARD](https://github.com/dennismogaka/SALES-PERFORMANCE-ANALYSIS/blob/main/sample_sales_data4%20dashboard%20(Autosaved).xlsx)
 ### SALES BREAKDOWN
 a)	**Sales by product**
