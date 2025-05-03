@@ -110,7 +110,7 @@ There are three customer segments: VIP, Regular, New segment.
 VIP segment Contributed 33.5% of total revenue.
 Regular segment contributed 32.3% of total revenue.
 New segment contributed 34.2% of total revenue.
-### KEY INSIGHTS AND TRENDS
+### KEY INSIGHTS AND FINDINGS
 **Shift to online shopping**
 Customers prefer online shopping over in-store sales. Online shopping contributed 51% while in-store contributed 49%.
 
