@@ -144,6 +144,6 @@ By focusing on digital market expansion, the company can sustain growth in the c
 2.	Enhance in-store experience to counteract the decline in in-store sales.
 3.	Discount offers played a big role in the high sales experienced in the first 3 years. The company should incorporate the discounts from time to time to increase sales.
 
-DASHBOARD
+## **DASHBOARD**
 ![image](https://github.com/user-attachments/assets/be85f8a5-08f3-4f45-b654-a17dc1ad9335)
 
