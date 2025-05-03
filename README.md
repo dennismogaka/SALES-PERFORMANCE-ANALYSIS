@@ -93,7 +93,7 @@ The data used for this work is gotten from www.kaggle.com.
  •	I deleted 50 rows with missing product category names because it was a small percentage compared to the data set I was using.
  
 #### DASHBOARD
-https://github.com/dennismogaka/SALES-PERFORMANCE-ANALYSIS/blob/main/sample_sales_data4%20dashboard%20(Autosaved).xlsx
+[DASHBOARD](https://github.com/dennismogaka/SALES-PERFORMANCE-ANALYSIS/blob/main/sample_sales_data4%20dashboard%20(Autosaved).xlsx)
 ### SALES BREAKDOWN
 a)	**Sales by product**
 Best-selling product: Beauty products (24% of total revenue).
@@ -143,6 +143,7 @@ By focusing on digital market expansion, the company can sustain growth in the c
 1.	Increase investment in digital marketing to further boost online sales.
 2.	Enhance in-store experience to counteract the decline in in-store sales.
 3.	Discount offers played a big role in the high sales experienced in the first 3 years. The company should incorporate the discounts from time to time to increase sales.
-   
+
+DASHBOARD
 ![image](https://github.com/user-attachments/assets/be85f8a5-08f3-4f45-b654-a17dc1ad9335)
 
