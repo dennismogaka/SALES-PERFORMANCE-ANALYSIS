@@ -92,7 +92,7 @@ The data used for this work is gotten from www.kaggle.com.
  
  •	I deleted 50 rows with missing product category names because it was a small percentage compared to the data set I was using.
  
-#### DASHBOARD
+#### DYNAMIC DASHBOARD
 [DASHBOARD](https://github.com/dennismogaka/SALES-PERFORMANCE-ANALYSIS/blob/main/sample_sales_data4%20dashboard%20(Autosaved).xlsx)
 ### SALES BREAKDOWN
 a)	**Sales by product**
