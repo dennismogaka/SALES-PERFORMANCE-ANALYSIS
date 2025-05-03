@@ -139,7 +139,7 @@ New customer segment contributed higher revenue of $402,249 (34.1% of total reve
 By focusing on digital market expansion, the company can sustain growth in the coming years.
 
 
-## RECOMMENDATIONS AND INSIGHTS
+## RECOMMENDATIONS & INSIGHTS
 1.	Increase investment in digital marketing to further boost online sales.
 2.	Enhance in-store experience to counteract the decline in in-store sales.
 3.	Discount offers played a big role in the high sales experienced in the first 3 years. The company should incorporate the discounts from time to time to increase sales.
