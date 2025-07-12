@@ -1,4 +1,4 @@
-# SALES-PERFORMANCE-ANALYSIS
+# EXCEL SALES-PERFORMANCE-ANALYSIS
 ### TABLE OF CONTENT  
 - [ Project Objective](#project-objective)  
 - [ Data Used](#data-used)  
